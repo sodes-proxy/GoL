@@ -1,7 +1,7 @@
 # GoL
 Python script to simulate the game of life
 
-#play the game of life
+# play the game of life
 the application can run in two modes
 - inserting the configuration as command line parameter:
 ```
